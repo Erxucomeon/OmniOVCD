@@ -1,0 +1,2 @@
+background,cropland,grass,tree,forest,building,sports field,water
+the ground,bare land

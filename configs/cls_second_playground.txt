@@ -1,0 +1,2 @@
+background,building,blue roof
+football court,basketball court,baseball court

@@ -1,0 +1,2 @@
+background
+low vegetation,grass
